@@ -1,5 +1,14 @@
 # spring-boot-angular-maven-build
 
+## Architecture Overview / Prerequisites
+
+Java 8 - Download and install the JDK 8.  
+Node.js - Download and install  
+Angular CLI - used to bootstrap the Angular application. You can install it using npm as a default package manager for the JavaScript runtime environment Node.js
+
+In the example that I’m detailing below, we used Spring Boot 2.1.5  RELEASE version.
+
+
 ## Define project modules
 
 The first step of the implementation is to create a multi-module Spring Boot 
