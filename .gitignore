@@ -24,6 +24,14 @@ target/
 mvnw
 mvnw.cmd
 
+### Node
+frontend/dist
+frontend/node_modules
+frontend/src/node/
+frontend/src/node/node_modules
+frontend/package-lock.json
+frontend/node/
+
 ### NetBeans ###
 /nbproject/private/
 /nbbuild/
